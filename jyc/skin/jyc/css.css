@@ -1,0 +1,137 @@
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, blockquote, pre, form, fieldset, table, span{padding:0;margin:0;}
+body,td,th {
+	font-size: 12px;
+	color: #000000;
+	line-height: 22px;
+	font-family: "微软雅黑";
+}
+BODY {behavior: url("http://www.jianyuanchun.com/hover.htc");FONT-SIZE: 12px;FONT-FAMILY: Arial, Helvetica, sans-serif;margin:0px;color: #000000;background-color: #FFFFFF;background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_02.jpg);background-repeat: repeat-x;background-position: center top;}
+* {margin: 0px;	padding: 0px;}
+.dingclr {clear: both;}
+ul, li {list-style-type: none;}
+img {border: 0pt none;}
+a {text-decoration: none;font-family: "微软雅黑";}
+a:link {text-decoration: none; font-size: 12px;	color: #333333;	line-height: 22px;}
+a:visited {text-decoration: none; font-size: 12px; color: #333333;	line-height: 22px;}
+a:hover {text-decoration: underline;font-size: 12px;color: #FF0000;line-height: 22px;}
+a:active {text-decoration: none;font-size: 12px;color: #333333;line-height: 22px;}
+#full-screen-slider { width:100%; height:470px; float:left; position:relative}
+#slides { display:block; width:100%; height:470px; list-style:none; padding:0; margin:0; position:relative}
+#slides li { display:block; width:100%; height:100%; list-style:none; padding:0; margin:0; position:absolute}
+#slides li a { display:block; width:100%; height:100%; text-indent:-9999px}
+#pagination { display:block; list-style:none; position:absolute; left:27%; top:430px; z-index:9900;  padding:5px 15px 5px 0; margin:0}
+#pagination li { display:block; list-style:none; width:15px; height:15px; float:left; margin-left:15px; border-radius:5px; background:#FFF }
+#pagination li a { display:block; width:100%; height:100%; padding:0; margin:0;  text-indent:-9999px;}
+#pagination li.current { background:#0092CE}
+.cpfl ul li{text-indent:26px;background:url(http://www.jianyuanchun.com//Skin/jyc/images/neileftlbbj.jpg) no-repeat left center;border: 1px solid #D8D8D8;line-height:29px;	position: relative; margin-bottom:10px;}
+.cpfl ul li a {	display: block;font-size: 14px; line-height:29px; color:#333333; height:29px;}
+.cpfl ul li a:hover{font-size: 14px; line-height:29px; color:#fff; height:29px;background:url(http://www.jianyuanchun.com//Skin/jyc/images/neileftlbbj1.jpg) no-repeat left center;text-decoration: none;}
+.cpbt {background-color: #429B01;color: #FFFFFF;}
+.cpbt a {font-size: 12px; line-height:25px; color:#fff;}
+.center {margin: 0px auto;width: 1260px;}
+.left_tbbk {line-height: 22px;border: 1px solid #47C21A;padding: 16px;}
+.cpbk {border: 2px solid #429B01;}
+.bai_cpbk {border:1px solid #429B01;}
+.hg30 {line-height: 30px;font-size:14px;text-align:justify;text-justify:inter-ideograph;}
+.xx {border-bottom:1px dotted #CCCCCC; background:url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_18-20_55.jpg) no-repeat left center; text-indent:16px;}
+.xx span{ float:right; text-align:right;}
+.biaoti {
+	font-size: 16px;
+	color:#0D6906;
+	line-height: 26px;
+	font-weight: bold;
+}
+.leftbt {
+	line-height: 32px;
+	font-size: 18px;
+	color: #004405;
+	font-weight: bold;
+}
+
+.biaoti1 {font-size: 14px;font-weight: bold;color: #FFFFFF;line-height: 26px;}
+.leftbtbk {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #007C0A;
+}
+.rightbtbk {
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E5E5E5;
+}
+
+.about {
+	background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/about.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 252px;
+}
+/**/
+#end_dh{
+	font-size: 12px;
+	color: #e6f4e9;
+	line-height: 22px;
+	background-color: #00911A;
+}
+#end_dh a{font-size: 12px;color: #e6f4e9;line-height: 22px;}
+#dingnav {
+	margin: 0px auto 5px auto;
+	width: 1280px;
+	background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_09.jpg);
+	background-repeat: repeat-x;
+}
+#dingnav ul {
+	height: 51px;
+	background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_12.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#dingnav ul li {
+	float: left;
+	position: relative;
+}
+#dingnav ul li:hover {
+	text-decoration: none;
+	background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_06-08.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#dingnav ul li a {
+	background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_12.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	display: block;
+	width: 128px;
+	text-align: center;
+	line-height: 51px;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#dingnav ul li:hover a {color: #FFFFFF;text-decoration: none;}
+#dingnav ul li:hover ul {visibility: visible;}
+#dingnav ul li ul {background:silver;visibility: hidden;position: absolute;z-index: 999;left: 0px;padding-right: 0px;padding-bottom: 0px;height: auto;width: auto; margin-left:4px;}
+#dingnav ul li ul li {
+	clear: left;
+	background-color: #00a81e;
+}
+#dingnav ul li ul li a {
+	color:#FFFFFF;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	font-size:14px;
+	background-image: url(http://www.jianyuanchun.com//Skin/jyc/images/inde1_112.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 32px;
+	line-height: 32px;
+	width:121px;
+	font-weight: normal;
+	background-color: #dea700;
+}
+#dingnav ul li ul li a:hover {
+	color:#FFFFFF;
+	text-decoration:none;
+	background-color: #00a81e;
+}
